@@ -10,7 +10,7 @@
 
 
    ## About :sunglasses:
-  Computer Science Graduated. Currently working as a Full Stack Web Developer at Ideofuzion. Passionate and Hardworking. Always like to work with good people.
+  I am Rana Fahad Hussain, a highly motivated and passionate professional with a diverse background in the software industry, specializing in Frontend development technologies.
 
   ## Technologies :fire:
   - MERN Stack
@@ -29,7 +29,6 @@
   <p align="left">
     
     
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
