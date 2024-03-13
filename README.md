@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Rana Fahad Hussain</h1>
-<h3 align="center">Senior Frontend Engineer( MEAN | MERN ) & Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranafahadhussain&label=Profile%20views&color=0e75b6&style=flat" alt="ranafahadhussain" /> </p>
+  <h1 align="center">Hi 👋, I'm Rana Fahad Hussain</h1>
+  <h3 align="center">Senior Frontend Engineer | Web3 | React.js | Next.js | Angular | Electron | Javascript </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranafahadhussain" alt="ranafahadhussain" /></a> </p>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=ranafahadhussain&label=Profile%20views&color=0e75b6&style=flat" alt="ranafahadhussain" /></p>
 
-<p align="left"> <a href="https://twitter.com/asad_ullah097" target="blank"><img src="https://img.shields.io/twitter/follow/asad_ullah097?logo=twitter&style=for-the-badge" alt="asad_ullah097" /></a> </p>
+  <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranafahadhussain" alt="ranafahadhussain" /></a>
+  </p>
 
-- 🌱 I’m currently learning **AWS and Microservices**
 
-- 💬 Ask me about **JavaScript, TypeScript, Nodejs, Express.js NestJS**
+   ## About :sunglasses:
+  Computer Science Graduated. Currently working as a Full Stack Web Developer at Ideofuzion. Passionate and Hardworking. Always like to work with good people.
 
-- 📫 How to reach me **asaddir5566@gmail.com**
+  ## Technologies :fire:
+  - MERN Stack
+  - MEAN Stack
+  - React.js
+  - Next.js
+  - Node.js
+  - Redux
+  - Firebase
+  - MongoDB        
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asad_ullah097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asad_ullah097" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranafahadhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranafahadhussain" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranafahadhussain&show_icons=true&locale=en&layout=compact" alt="ranafahadhussain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranafahadhussain&show_icons=true&locale=en" alt="ranafahadhussain" /></p>
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    
+    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranafahadhussain&" alt="ranafahadhussain" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranafahadhussain&show_icons=true&locale=en&layout=compact" alt="ranafahadhussain" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranafahadhussain&show_icons=true&locale=en" alt="ranafahadhussain" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranafahadhussain&" alt="ranafahadhussain" /></p>
+  
+##  Contact Me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+[![Twitter Badge](https://img.shields.io/badge/-@RanaFahadh1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RanaFahadh1)](https://twitter.com/RanaFahadh1) [![Linkedin Badge](https://img.shields.io/badge/-RanaFahad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-fahad-hussain-45268a16a//)](https://www.linkedin.com/in/rana-fahad-hussain-45268a16a//) [![Gmail Badge](https://img.shields.io/badge/-fadi.chauhan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fadi.chauhan@gmail.com)](mailto:fadi.chauhan@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ranafahad.insta-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rana_fahad_hussain/)](https://www.instagram.com/rana_fahad_hussain/)
+
+<div align="center">
+</div>
